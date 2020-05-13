@@ -1,0 +1,3 @@
+[submodule "narrative2vec"]
+	path = narrative2vec
+	url = git@github.com:code-iai/narrative2vec.git
