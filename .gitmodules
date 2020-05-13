@@ -1,3 +1,6 @@
 [submodule "narrative2vec"]
 	path = narrative2vec
 	url = git@github.com:code-iai/narrative2vec.git
+[submodule "rosprolog"]
+	path = rosprolog
+	url = git@github.com:knowrob/rosprolog.git
